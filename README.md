@@ -24,3 +24,4 @@ Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdl
 3. Have Fun!
 
 # uHack *uRun and uBlock Run combined*
+figure it out yourself
