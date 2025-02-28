@@ -18,6 +18,6 @@ Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdl
 10. Add a line and type `*##+js(exec.js)`
 11. Click `Apply Changes`.
 <b>Running the Exploit</b
-Press ctrl + alt and tilde (`~`)
-Paste or type any JavaScript code you want
-Have Fun!
+1. Press ctrl + alt and tilde (`~`)
+2. Paste or type any JavaScript code you want
+3. Have Fun!
