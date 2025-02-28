@@ -1,6 +1,7 @@
 # SchoolSploits
 Exploits to use on your school Chromebook.
 # uBlock *Run JavaScript* Exploit
+
 <b>Getting Started</b>
 Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a>
 
