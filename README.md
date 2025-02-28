@@ -12,7 +12,7 @@ Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdl
 4. Make sure the `I am an advanced user` setting is toggled on.
 5. Click the small cog icon.
 6. Look for `userResourcesLocation`
-7. Change `unset` to `https://raw.githubusercontent.com/chromebookexploiter/SchoolSploits/main/uExec.js/
+7. Change `unset` to `https://raw.githubusercontent.com/chromebookexploiter/SchoolSploits/main/uExec.js/`.
 8. Click `Apply Changes`
 9. Go to the `My Filters`.
 10. Add a line and type `*##+js(exec.js)`
