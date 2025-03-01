@@ -1,6 +1,6 @@
 /// uHack.js
 window.addEventListener("keyup", event => {
-  if (event.ctrlKey && event.which === 192) {
+  if (event.ctrlKey && event.key == "x") {
     let code = prompt("Eval:");
     if (code.startsWith("javascript:")) {
       code = code.substring(11);
