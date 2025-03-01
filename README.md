@@ -23,7 +23,7 @@ Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdl
 2. Paste or type any JavaScript code you want
 3. Have Fun!
 
-# uHack *uRun and uBlock Run combined*
+# uHack *uRun and uBlock Run combined* (W.I.P)
 <b>Getting Started</b>
 
 Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a>
