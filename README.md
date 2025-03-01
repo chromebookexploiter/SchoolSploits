@@ -48,4 +48,5 @@ Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdl
 <b>-NOTES-</b>
 
 If uRun does not work properly, try running uBlock Run
+
 This does not work on Prodigy Math, If you want to run scripts on it, you have to use uBlock Run.
