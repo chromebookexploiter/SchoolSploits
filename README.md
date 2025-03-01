@@ -44,6 +44,7 @@ Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdl
 <b>Running the Exploit</b>
 1. Press ctrl + alt and tilde (`~`) (for uBlock Run)
 2. Press ctrl + shift and tilde (`~`) (for uRun)
+
 <b>-NOTES-</b>
 If uRun does not work properly, try running uBlock Run
 This does not work on Prodigy Math, If you want to run scripts on it, you have to use uBlock Run.
