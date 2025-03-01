@@ -42,7 +42,7 @@ Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdl
 11. Click `Apply Changes`.
 
 <b>Running the Exploit</b>
-1. Press ctrl + alt and tilde (`~`) (for uBlock Run)
+1. Press ctrl + alt + x (for uBlock Run)
 2. Press ctrl + shift and tilde (`~`) (for uRun)
 
 <b>-NOTES-</b>
