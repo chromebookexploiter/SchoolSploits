@@ -15,7 +15,7 @@ Install <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdl
 7. Change `unset` to `https://raw.githubusercontent.com/chromebookexploiter/SchoolSploits/main/uExec.js/`.
 8. Click `Apply Changes`
 9. Go to the `My Filters`.
-10. Add a line and type `*##+js(exec.js)`
+10. Find an empty line and type `*##+js(exec.js)`
 11. Click `Apply Changes`.
 
 <b>Running the Exploit</b>
